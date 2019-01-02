@@ -1,0 +1,71 @@
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+body{
+    background:white;
+}
+.container {
+    width: 1470px;
+}
+.yt_navbar{
+    background-color:#00c8c8;
+}
+.navbar-default .navbar-nav>li>a{
+    color:white;
+}
+.navbar-default .navbar-brand {
+    color:white;
+}
+.navbar {
+    margin-bottom:0;
+}
+.type_nav{
+    line-height:90px;
+    height:90px;
+}
+.type_nav li{
+    margin:0 15px;
+    float:left;
+    padding-left:30px;
+    background:url("/images/icon.jpg") no-repeat left center;
+}
+.venue_list .venue_item{
+    padding:30px 0;
+    border-bottom: 1px solid #ccc;
+    display: flex;
+}
+.venue_list .venue_item .pic{
+    width:330px;
+}
+.venue_list .venue_item .txt{
+    width:700px;
+    margin-left:20px;
+}
+.t_box{
+    padding:10px;
+    margin-left:30px;
+    width:328px;
+    height:225px;
+    border:1px solid #ccc;
+    float: right;
+    color:#666;
+    font-size:16px;
+    line-height:20px;
+}
+.b_box{
+    margin-top:17px;
+    padding:30px 26px;
+    width:328px;
+    height:728px;
+    border:1px solid #ccc;
+    float: right;
+    color:#666;
+    font-size:16px;
+}
+.b_box>.all{
+    float:right;
+    font-size:16px;
+}
